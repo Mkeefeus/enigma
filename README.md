@@ -26,7 +26,7 @@ This project is an excuse to try new language(s). The goal is to make the german
 | UKW-C | FVPJIAOYEDRZXWGCTKUQSBNMHL |       |          |     |
 
 ### Application workflow
-1. Prompt user for version of Engima to use
+1. Prompt user for version of Enigma to use
 2. Prompt user for selection or rotors to use
 3. Prompt user for rotor settings
 4. Prompt user for plugboard settings
@@ -36,7 +36,7 @@ This project is an excuse to try new language(s). The goal is to make the german
 8. Reflector mutation
 9. Return rotor mutations
 10. Return plugboard mutation
+11. Rotor rotation
 
 ### TODO
-- Structs for rotors and plugboard
-- Select rotors in order. Rotor 3 can be before rotor 1 in the machine
+- Result over Optional

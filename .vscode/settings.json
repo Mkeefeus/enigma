@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "dialoguer"
-    ]
+    ],
+    "github.copilot.enable": {
+        "rust": false
+    }
 }
